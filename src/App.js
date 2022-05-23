@@ -7,7 +7,8 @@ function App() {
   return (
     <div className="App">
       <p>This in your UUIDV nr:</p>
-      <p>{uuidv4()}</p>    
+      <p>{uuidv4()}</p>
+      <p>Please, refresh website.</p>    
     </div>
   );
 }
